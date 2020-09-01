@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[We are on Chat Page]]>
+    </line>
+    <line>
+      <![CDATA[We are on Chat Page]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="381246" started-at="2019-12-12T11:47:36Z" finished-at="2019-12-12T11:53:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="381246" started-at="2019-12-12T11:47:36Z" finished-at="2019-12-12T11:53:57Z">
+      <class name="com.qa.runner_class.LoginAndChat_TestRunner3E">
+        <test-method status="PASS" signature="runCukes1()[pri:0, instance:com.qa.runner_class.LoginAndChat_TestRunner3E@402f32ff]" name="runCukes1" duration-ms="210103" started-at="2019-12-12T17:20:27Z" finished-at="2019-12-12T17:23:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[We are on Chat Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runCukes1 -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.qa.runner_class.LoginAndChat_TestRunner3E@402f32ff]" name="test" is-config="true" duration-ms="0" started-at="2019-12-12T17:20:27Z" finished-at="2019-12-12T17:20:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.qa.runner_class.LoginAndChat_TestRunner3E -->
+      <class name="com.qa.runner_class.LoginAndChat_TestRunner">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.qa.runner_class.LoginAndChat_TestRunner@48eff760]" name="test" is-config="true" duration-ms="6" started-at="2019-12-12T17:17:36Z" finished-at="2019-12-12T17:17:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="runCukes()[pri:0, instance:com.qa.runner_class.LoginAndChat_TestRunner@48eff760]" name="runCukes" duration-ms="171122" started-at="2019-12-12T17:17:36Z" finished-at="2019-12-12T17:20:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[We are on Chat Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runCukes -->
+      </class> <!-- com.qa.runner_class.LoginAndChat_TestRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

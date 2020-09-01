@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.qa.util.DriverTestCase"/>
+           <class name="com.qa.runner_class.LoginAndChat_TestRunner"/>
+          <class name="com.qa.runner_class.LoginAndChat_TestRunner3E"/>
+      <class name="com.qa.util.GeneralHooks"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

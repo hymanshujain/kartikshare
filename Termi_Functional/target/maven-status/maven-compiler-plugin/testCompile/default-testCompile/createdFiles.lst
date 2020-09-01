@@ -1,0 +1,5 @@
+com\qa\step_definition\TestBase.class
+com\qa\runner_class\LoginAndChat_TestRunner.class
+com\qa\step_Definition_3E\LoginAndChat_Step_Definition3E.class
+com\qa\step_definition\LoginAndChat_Step_Definition.class
+com\qa\runner_class\LoginAndChat_TestRunner3E.class
